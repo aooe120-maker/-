@@ -1,3 +1,1 @@
-git rm 파이썬.txt
-git rm commit -m "불필요한 파일 삭제"
-git push
+
